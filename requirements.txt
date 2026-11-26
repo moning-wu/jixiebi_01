@@ -1,0 +1,4 @@
+# 固定版本，保证在不同机器上行为一致
+opencv-python==5.0.0.93
+numpy>=1.26
+matplotlib>=3.8
